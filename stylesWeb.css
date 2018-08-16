@@ -1,0 +1,44 @@
+body {
+	padding: 2px;
+	margin: 20px auto;
+	max-width: 800px;
+	max-height: 800px;
+	position: relative;
+	font-family: 'Roboto', Sans-serif;
+	font-family: 'Oswald', sans-serif;
+}
+
+.bloque2{
+    width: 30%;
+	padding-bottom: 30%;
+	float: left;
+}
+
+.separado1{
+	width: 20%;
+	display: inline-block;
+}
+
+.encabesado{
+	margin: 0;
+	padding: 10px 10;
+}
+
+.imagen{
+	display: inline;
+}
+
+.informacion{
+	color: white;
+	background-color: #00897B;
+	padding: 3%;
+	margin: 0;
+	text-indent: 0.05%;
+}
+
+.writer-img {
+	float: left;
+ 	width: 200px;
+	vertical-align: center;
+	padding: 4.5%;
+}
