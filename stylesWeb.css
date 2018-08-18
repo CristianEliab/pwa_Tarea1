@@ -1,0 +1,135 @@
+body {
+	padding: 2px;
+	margin: 20px auto;
+	max-width: 850px;
+	max-height: 850px;
+	position: relative;
+	font-family: 'Roboto', Sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-size: 95%;
+
+}
+
+i.fas.fa-user {
+	margin: 3%;
+    padding: 4%;
+    margin-left: -23px;
+    margin-top: -21px;
+}
+
+p#infoPersonal {
+	margin: -2px;
+    margin-top: -52px;
+}
+
+h3#descripcion {
+	margin: -3%;
+	color: white;
+}
+
+
+h3{
+	color: #00897B;
+}
+
+.separado1{
+	width: 20%;
+	display: inline-block;
+}
+
+.encabesado{
+	margin: 0;
+	padding: 10px 10;
+}
+
+.imagen{
+	display: inline;
+}
+
+.informacion{
+	color: white;
+	background-color: #00897B;
+	padding: 3%;
+	margin: 0;
+	text-indent: 0.05%;
+}
+
+.writer-img {
+	float: left;
+ 	width: 200px;
+	vertical-align: center;
+	padding: 4.5%;
+}
+
+h3#descripcion{
+	margin: -3%;
+}
+
+div.separador{
+	margin: 3%;
+    width: -2px;
+    height: 70px;
+    margin-right: -151px;
+    margin-left: 8px;
+    margin-top: 48px;
+}
+
+h4.profesion{
+	margin: 0%;
+}
+
+h5.titulo{
+	margin: 0%;
+}
+
+p.desp{
+	margin: 0%;
+}
+
+h6.fecha{
+	margin: 4%;
+}
+
+
+.acciones{
+	width: 50%;
+	float: left;
+}
+
+.experiencia{
+	width: 50%;
+	float: right;
+}
+
+.tecnicas{
+	display: inline-block;
+}
+
+.bloque1{
+	width: 33%;
+    padding-bottom: 2%;
+    float: left;
+    margin-left: 0%;
+}
+
+.bloque2{
+	margin: 1%;
+	width: 31%;
+	float: left;
+	border-right: rgb(129, 125, 125) 1px solid;
+	border-bottom: rgb(129, 125, 125) 1px solid;
+	border-left:  rgb(129, 125, 125) 1px solid;
+	height: 128px;
+	border-radius: 5px;
+}
+
+.bloque3{
+	margin: 1%;
+	width: 64%;
+	float: left;
+	border-right: rgb(129, 125, 125) 1px solid;
+	border-bottom: rgb(129, 125, 125) 1px solid;
+	border-left:  rgb(129, 125, 125) 1px solid;
+	height: 128px;
+	border-radius: 5px;
+}
